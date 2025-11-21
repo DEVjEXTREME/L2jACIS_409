@@ -11,16 +11,6 @@ Este repositório tem como objetivo:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-L2jACIS_409/
-├─ src/ ← códigos-fonte do servidor
-├─ resources/ ← arquivos de configuração, scripts e dados
-├─ Docs/ ← documentação, tutoriais e instruções
-├─ Images/ ← imagens ou diagramas de referência
-└─ LICENSE ← MIT License
-
-
 
 > Cada pasta é organizada para que você encontre facilmente o que precisa, desde código-fonte até documentação de uso.
 
