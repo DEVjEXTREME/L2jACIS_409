@@ -20,8 +20,7 @@ L2jACIS_409/
 ├─ Images/ ← imagens ou diagramas de referência
 └─ LICENSE ← MIT License
 
-yaml
-Copiar código
+
 
 > Cada pasta é organizada para que você encontre facilmente o que precisa, desde código-fonte até documentação de uso.
 
