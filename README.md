@@ -26,19 +26,19 @@ Veja [LICENSE](LICENSE) para mais detalhes.
 ## 🌐 Redes Sociais
 
 📧 E-mail: viniciusdevsuporte@gmail.com
- •
+
 🌐 Site: https://jextreme.fun
- •
+
 💬 Discord: https://discord.com/invite/7jgkznBzK5
- •
+
 💻 GitHub: https://github.com/DEVjEXTREME
- •
+
 📘 Facebook: https://www.facebook.com/Dev.jEXTREME
- •
+
 📸 Instagram: https://www.instagram.com/dev_jextreme
- •
+
 ▶️ YouTube: https://www.youtube.com/@DEV_jEXTREME
- •
+
 ❌ Twitter: https://x.com/DEV_jEXTREME
 ---
 
