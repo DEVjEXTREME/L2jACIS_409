@@ -25,13 +25,15 @@ Veja [LICENSE](LICENSE) para mais detalhes.
 
 ## 🌐 Redes Sociais
 
-📧 Email: viniciusdevsuporte@gmail.com  
-🌐 Site: [jextreme.fun](https://jextreme.fun)  
-💬 Discord: [Entrar](https://discord.com/invite/7jgkznBzK5)  
-💻 GitHub: [DEVjEXTREME](https://github.com/DEVjEXTREME)  
-📘 Facebook: [Dev.jEXTREME](https://www.facebook.com/Dev.jEXTREME/)  
-📸 Instagram: [dev_jextreme](https://www.instagram.com/dev_jextreme/)
+📧 Email: viniciusdevsuporte@gmail.com
 
+🌐 Site: https://jextreme.fun
+💬 Discord: https://discord.com/invite/7jgkznBzK5
+💻 GitHub: https://github.com/DEVjEXTREME
+📘 Facebook: https://www.facebook.com/Dev.jEXTREME
+📸 Instagram: https://www.instagram.com/dev_jextreme
+▶️ YouTube: https://www.youtube.com/@DEV_jEXTREME
+❌ Twitter: https://x.com/DEV_jEXTREME
 ---
 
 ### 🔥 Notas Finais
