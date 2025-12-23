@@ -10,7 +10,7 @@ Este repositório tem como objetivo:
 ## 🌐 Contato & Redes Sociais
 
 * 📧 **E-mail:** [viniciusdevsuporte@gmail.com](mailto:viniciusdevsuporte@gmail.com)
-* 🌐 **Site:** [https://jextreme.fun](https://jextreme.fun)
+* 🌐 **Site:** [https://j-extreme.com](https://j-extreme.com)
 * 💬 **Discord:** [https://discord.com/invite/7jgkznBzK5](https://discord.com/invite/7jgkznBzK5)
 * 💻 **GitHub:** [https://github.com/DEVjEXTREME](https://github.com/DEVjEXTREME)
 * 📘 **Facebook:** [https://www.facebook.com/Dev.jEXTREME](https://www.facebook.com/Dev.jEXTREME)
